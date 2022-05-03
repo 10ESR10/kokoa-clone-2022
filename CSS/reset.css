@@ -131,3 +131,8 @@ table {
 input:focus {
   outline: none;
 }
+
+a {
+  corlor: inherit;
+  text-decoration: none;
+}
